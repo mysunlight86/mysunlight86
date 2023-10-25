@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Nadiia 👋
 <p>
   Purposeful and responsible beginner front-end developer with a motivation for development. I find a common language with different people. I appreciate honesty and willingness to help. I recently completed courses in web development at Yandex.Practicum and now I continue to improve my skills on my own.
 </p>
