@@ -11,12 +11,12 @@
                                                                   src="https://github-readme-stats.vercel.app/api/top-langs/?username=mysunlight86&layout=compact"/></a>
 </p>
 
-<p align='center'>
+<!--p align='center'>
    <a href="https://t.me/mysunlight">
        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
-   </a>
+   </a -->
 <p align='center'>
-   📫 How to reach me: <a href='mailto:mysunlight86@gmail.com'>mysunlight86@gmail.com</a>
+   📫 How to reach me: <a href='mailto:nadiia.malokhatko@gmail.com'>nadiia.malokhatko@gmail.com</a>
 </p>
 
 <div align="center" style="margin: 40px 0">
